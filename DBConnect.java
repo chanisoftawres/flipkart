@@ -2,6 +2,5 @@ hi
 how 
 are 
 you
-i am
-very
-good
+i am fine 
+thankyou
